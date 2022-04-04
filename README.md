@@ -8,6 +8,7 @@ I'm a student at the moment, so... there is not so much projects at my profile ð
 - JS
 - LESS
 - ReactJS
+- Jest
 ## Backend
 - NodeJS
 - REST
@@ -16,6 +17,9 @@ I'm a student at the moment, so... there is not so much projects at my profile ð
 - MySQL
 - SQL Server
 - Oracle
+## Design
+- Photoshop
+- Figma
 ## AR
 - Vuforia Engine
 - ThingWorx
