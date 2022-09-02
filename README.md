@@ -30,3 +30,6 @@ I'm a student at the moment, so... there is not so much projects at my profile ð
 ## Programming
 - C#
 - C++
+## Few moments later...
+- d3.js
+- JS certificate from FreeCodeCamp
