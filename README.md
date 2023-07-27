@@ -6,10 +6,12 @@ There is a list of my skills:
 ## Frontend
 - HTML / CSS
 - JS
-- LESS
+- JS WebComponents
 - ReactJS
+- LESS
 - Jest
 - d3.js
+- Anime.js
 ## Backend
 - NodeJS
 - REST
